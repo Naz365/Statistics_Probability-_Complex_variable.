@@ -90,5 +90,3 @@ console.log("CV of shakib al hasan: "+ cv2.toFixed(2)+"%" )
 
 
 
-// console.log(`Comments:  From our Calculation we find that the Prices of Shares of Company A shows the ${tofixedCVA}% > ${tofixedCVB}% , So the investor should Purchase the Shares of Company B`)
-
